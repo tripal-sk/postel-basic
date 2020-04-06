@@ -25,6 +25,7 @@ MATERIÁL
 - Sheet t3mm
 - celkem 6,5t materiálu na 1 kamion
 -----------------------------------------------
+DOPLŇUJÍCÍ INFORMACE
 - Váha rámu (bez matrace): 35kg
 - Matraci je potřeba do dodávky uvažovat samostatně
 
