@@ -4,18 +4,19 @@
 
 ### Další informace
 
+FILOSOFIE
 - Rychlá výroba a efektivní logistika
 - Posílení odolnosti území vzhledem k reakci na rychlou potřebu
 - 1 kamion - 165 postelí - 3 směny po 7 svářečů 6 přípravářů a montérů
 -----------------------------------------------
-- TECHNOLOGIE
+TECHNOLOGIE
 - trubkový laser na průměr jeklu 50x50x3
 - plošný laser / nůžky
 - ohraňovací lis / ohýbačka plechu
 - svářecí technika pro 7 svářečů 
 - lakovna práškové barvy / mokré nanášení barev
 -----------------------------------------------
-- MATERIÁL
+MATERIÁL
 - ST 50x50x3
 - ST 40x40x2
 - ST 20x20x2
