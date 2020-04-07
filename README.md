@@ -1,4 +1,4 @@
-# Postel BASIC
+# BASIC BED FOR QUICK MASS LOCAL PRODUCTION IN AFFECTED AREAS 
 
 ![postel - vizualizace](https://github.com/tripal-sk/postel-basic/blob/master/quick-bed-EN.jpg)
 
@@ -16,14 +16,14 @@ TECHNOLOGIE
 - svářecí technika pro 7 svářečů 
 - lakovna práškové barvy / mokré nanášení barev
 -----------------------------------------------
-MATERIÁL
+MATERIALS
 - ST 50x50x3
 - ST 40x40x2
 - ST 20x20x2
 - T Ø20x1,8
 - R Ø12
 - Sheet t3mm
-- celkem 6,5t materiálu na 1 kamion
+- spolu 6,5t materiálu na 1 kamion
 -----------------------------------------------
 DOPLŇUJÍCÍ INFORMACE
 - Váha rámu (bez matrace): 35kg
