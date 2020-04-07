@@ -1,6 +1,6 @@
 # Postel BASIC
 
-![postel - vizualizace](https://github.com/tripal-sk/postel-basic/blob/master/Postel-BASIC-plakat.jpg)
+![postel - vizualizace](https://github.com/tripal-sk/postel-basic/blob/master/quick-bed-EN.jpg)
 
 ### Další informace
 
